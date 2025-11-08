@@ -1,0 +1,14 @@
+Overall summary:
+  Final result:                  Failed: see details below
+  Exit code (Decimal):           -2068774911
+  Exit facility code:            1201
+  Exit error code:               1
+  Exit message:                  Недопустимый класс 
+  Start time:                    2025-11-09 02:03:43
+  End time:                      2025-11-09 02:03:56
+  Requested action:              RunRules
+  Exception help link:           https://go.microsoft.com/fwlink?LinkId=20476&ProdName=Microsoft+SQL+Server&EvtSrc=setup.rll&EvtID=50000&ProdVer=16.0.1000.6&EvtType=0xE8049925%400x42B4DED7&EvtType=0xE8049925%400x42B4DED7
+
+Machine Properties:
+  Machine name:                  IRBIS-NB286
+  Machine processor count:       4
